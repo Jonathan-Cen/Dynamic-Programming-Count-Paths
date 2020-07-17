@@ -7,4 +7,19 @@ This simple pathfinding game allows the user to specify obstacles (will be colou
 When the user finishes with specifying obstacles, simply click the ```Calculate``` button to find out the number of different paths. The user can also click ```Reset``` to reset the grid. Click any obstacles will unspecify them.
 
 ## Python modules required:
-  - Pygame
+  - pygame
+
+## Instructions:
+
+### If you have python and pygame
+ - Simply clone this repository and run CountPathsFromBlueToRed.py
+
+### If you don't have python or pygame (Only for 64-bit machines)
+ - Clone this repository
+ - Unzip CountPathsFromBlueToRed.zip
+ - Execute CountPathsFromBlueToRed.exe 
+
+## Examples:
+![Alt text](/screenshots/main_window.png?raw=true "Main Window")
+
+![Alt text](/screenshots/game_example.png?raw=true "Game Example")
